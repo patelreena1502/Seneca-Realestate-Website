@@ -23,10 +23,6 @@ I was responsible for designing and developing the entire site using **WordPress
 - Team and leadership section with dynamic content  
 - Fast-loading and SEO-friendly structure
 
-##  Screenshots
-
-> (Add website screenshots or homepage preview here)
-
 ##  Live Website
 
 [https://senecagroup.com](https://senecagroup.com)
