@@ -1,4 +1,4 @@
-# 🏢 Seneca Group – Professional Real Estate Advisory Website
+#  Seneca Group – Professional Real Estate Advisory Website
 
 **Seneca Group** is a respected real estate advisory firm that provides strategic capital project management for sectors like healthcare, education, and public institutions. This website was built to professionally showcase their services, team, portfolio, and values, reflecting the brand's credibility and clarity.
 
